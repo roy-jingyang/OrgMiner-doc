@@ -1,0 +1,18 @@
+# Ignore pyc
+*.pyc
+**/__pycache__
+
+# Ignore Vim undo log
+*.un~
+*.swp
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore build directory
+build/
+
+# Ignore dev-use server applications
+app.py
+Makefile
+run.sh
